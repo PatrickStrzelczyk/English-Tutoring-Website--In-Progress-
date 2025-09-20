@@ -24,16 +24,7 @@ This is a full-stack project to design and develop a website for an independent 
 - [ ] Create moodboard & style guide  
 - [ ] Wireframes in Figma  
 - [ ] High-fidelity prototype  
-- [ ] Develop MVP landing page  
-- [ ] Add booking form  
+- [ ] Develop MVP landing page   
 - [ ] Deploy live version  
-
----
-
-## 🛠️ Tech Stack (planned)
-- Figma (UX/UI design)  
-- Next.js + React + Tailwind CSS  
-- Formspree or custom backend for booking form  
-- Vercel (deployment)  
 
 ---
