@@ -7,6 +7,7 @@ This is a full-stack project to design and develop a website for an independent 
 - Competitor analysis in progress  
 - Gathering user needs from students & tutors  
 - Wireframes coming soon (Figma link will be added here)
+- [Early Wireframes and Moodboards](https://www.figma.com/design/kcnsxEZuYG93RYUgFJdZlo/TutorWebsite-MagdaStrzelczyk-Wireframe?node-id=0-1&p=f&t=GFhbFSjMgNC952z7-0)
 
 ---
 
