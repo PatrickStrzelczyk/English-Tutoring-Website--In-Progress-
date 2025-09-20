@@ -15,7 +15,6 @@ This is a full-stack project to design and develop a website for an independent 
 - Modern, professional UI (typography & branding focus)
 - Booking/contact system
 - SEO-friendly and lightweight
-- Deployed on Vercel (planned)
 
 ---
 
